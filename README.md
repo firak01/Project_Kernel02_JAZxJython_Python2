@@ -1,5 +1,9 @@
-# Projekt_Kernel02_JAZRepositoryDummyTemplate_JythonJava8
-Neues Repository anhand dieser Vorlage erstellen, das Jython kann.<BR>
+# Projekt_Kernel02_JAZxJython_Python2
+Java mit Python - Jython<BR>
+Wichtig: Jython 2.7 funktioniert nur mit Python 2 und Java 8.<BR>
+<BR>
+------------------------------------------------------
+Neues Repository anhand der Vorlage erstellen, das Jython kann.<BR>
 <BR>
 Das neue Repository lokal clonen.<br>
 Umbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub - Seite nicht erfolgen. Git kann auch keine Verzeichnisse umbenennen.
